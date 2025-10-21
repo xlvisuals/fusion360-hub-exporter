@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion360",
+	"type":	"script",
+	"author": "Xlvisuals Limited",
+	"description":	{
+		"":	"Export all designs from active hub Fusion 360 to disk."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
